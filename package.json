@@ -1,0 +1,20 @@
+{
+  "main": "dist/index.js",
+  "type": "module",
+  "dependencies": {
+    "@kitajs/html": "^4.2.13",
+    "@rollup/plugin-inject": "^5.0.5",
+    "chalk": "^4.1.2",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "htmx.org": "^2.0.8",
+    "marked": "^17.0.3"
+  },
+  "devDependencies": {
+    "@kitajs/ts-html-plugin": "^4.1.4",
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.3.3",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  }
+}
