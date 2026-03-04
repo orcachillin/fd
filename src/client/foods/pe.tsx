@@ -19,7 +19,7 @@ export function render() {
 				<li>breadcrumbs</li>
 				<li>parmesan cheese</li>
 				<li>garlic powder</li>
-				<li>Italian seasoning</li>
+				<li>italian seasoning</li>
 				<li>salt</li>
 				<li>pepper</li>
 				<li>egg</li>
