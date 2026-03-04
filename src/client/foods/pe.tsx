@@ -30,7 +30,7 @@ export function render() {
 			</ul>
 			<h3>bread</h3>
 			<ul>
-				<li>kroger garlic bread</li>
+				<li>kroger 3 cheese garlic bread</li>
 			</ul>
 			<h3>corn</h3>
 			<ul>
