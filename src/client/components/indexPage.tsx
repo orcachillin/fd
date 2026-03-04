@@ -39,7 +39,7 @@ export default function IndexPage(props: { foodCode?: string }) {
 						<h1>CONTAINER RETURN</h1>
 						<p>
 							please contact me to return your containers! (they arent super fancy or anything but i only have
-							so many and i like them a lot {">.<"}.) thank you!
+							so many and i like them a lot {">.<"}) thank you!
 						</p>
 					</div>
 				</body>
