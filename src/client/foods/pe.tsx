@@ -49,7 +49,7 @@ export function render() {
 			</ul>
 
 			<h2>reheat instructions</h2>
-			<p>unclip lid, and set on top of container, leaving space to vent. put in microwave for 90 seconds.</p>
+			<p>unclip lid, and set on top of container, leaving space to vent. put in microwave for 2 minutes.</p>
 		</div>
 	);
 }
