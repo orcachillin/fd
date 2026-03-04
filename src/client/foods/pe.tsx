@@ -12,6 +12,7 @@ export function render() {
 			</p>
 
 			<h2>ingredients</h2>
+			<h3>chicken</h3>
 			<ul>
 				<li>boneless, skinless chicken breast</li>
 				<li>breadcrumbs</li>
@@ -26,10 +27,17 @@ export function render() {
 				<li>marinara sauce</li>
 				<li>shredded mozzarella</li>
 				<li>chopped fresh parsley</li>
-
+			</ul>
+			<h3>bread</h3>
+			<ul>
 				<li>kroger garlic bread</li>
+			</ul>
+			<h3>corn</h3>
+			<ul>
 				<li>frozen corn</li>
 				<li>butter</li>
+				<li>salt</li>
+				<li>pepper</li>
 			</ul>
 
 			<h3>includes</h3>
