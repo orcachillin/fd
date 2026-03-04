@@ -8,7 +8,8 @@ export function render() {
 				<a href="https://www.budgetbytes.com/chicken-parmesan/" target="_blank">
 					this recipe
 				</a>
-				!
+				! estimated price per meal is around $4.50. if you want to contribute to me doing this more, there is
+				a link to my kofi above!
 			</p>
 
 			<h2>ingredients</h2>
